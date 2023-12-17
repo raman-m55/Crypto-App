@@ -1,0 +1,46 @@
+.colorh1 {
+    color: rgb(9, 52, 168);
+    text-align: left;
+}
+
+.row1{
+    margin-bottom: 70px;
+}
+
+.row-chart {
+    display: flex ;
+    justify-content: center;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-title {
+    width: 50px;
+}
+
+.col-ch {
+ padding: 20PX;
+}
+
+.row-ch {
+    font-display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    background-color: rgb(227, 241, 247);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.div-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.p{
+    font-size: 1.1rem;
+}
